@@ -1,0 +1,57 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/Home.css" asp-append-version="true" />
+}
+
+<div class="min-h-screen bg-gradient-to-br from-blue-100 to-indigo-200 flex flex-col">
+    <div class="container mx-auto px-4 py-16 flex-grow flex items-center">
+        <div class="grid md:grid-cols-2 gap-12 items-center">
+            <div class="space-y-6">
+                <div class="relative flex flex-col items-center space-y-4">
+                    <span class="text-6xl animate-wave"></span>
+                    <h1 class="text-6xl font-extrabold text-white drop-shadow-lg">
+                        Welcome to Your
+                        <span class="block text-indigo-500 neon-text">Clover AI </span>
+                        Companion
+                    </h1>
+                </div>
+
+                <p class="text-2xl text-gray-200 leading-relaxed max-w-3xl glass">
+                    Discover a world of intelligent insights and interactive experiences.
+                    Our application leverages cutting-edge AI technologies to provide
+                    dynamic, responsive, and engaging tools at your fingertips.
+                </p>
+            </div>
+
+            <div class="button-grid">
+                <a href="/Chat/Index" class="button weather">
+                    <span></span>
+                    🤖 CloveyBot 
+                </a>
+            </div>   
+          </<div>
+       </div>
+     </div>
+  </div>
+</div>
+
+@{
+    bool showFooter = false; 
+}
+
+@if (showFooter)
+{
+            <footer class="bg-white/30 backdrop-blur-lg py-6">
+                <div class="container mx-auto px-4 text-center text-gray-600">
+                    © @DateTime.Now.Year AI Companion App By Diana Mudau. All rights reserved.
+                </div>
+            </footer>
+}
+
+<!-- Scripts Section -->
+@section Scripts {
+    <script src="~/js/Home.js" asp-append-version="true"></script>
+}

@@ -1,0 +1,3 @@
+Group,N,Correct,AvgResponseTimeSeconds,MinResponseTimeSeconds,MaxResponseTimeSeconds,AccuracyPercent,ErrorRatePercent
+Chatbot (Automated),140,140,0.000694099,0.0001902,0.0146214,100.0,0.0
+Human (Baseline),101,18,66.407326733,6.82,99.68,17.82178218,82.17821782

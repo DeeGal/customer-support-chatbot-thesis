@@ -1,0 +1,1264 @@
+{
+  "faqs": [
+    {
+      "id": "faq_001",
+      "category": "Company Information",
+      "question": "Who is Clover?",
+      "answer": "Clover Proprietary Limited is one of South Africa’s largest branded consumer goods companies, specializing in dairy, beverages, and food products. The company has been operating for over 100 years.",
+      "keywords": [ "Clover", "company", "about", "dairy company", "South Africa" ],
+      "tags": [ "company_info", "about" ],
+      "variations": [
+        "What is Clover?",
+        "Tell me about Clover",
+        "Who owns Clover?",
+        "What kind of company is Clover?"
+      ]
+    },
+    {
+      "id": "faq_002",
+      "category": "Company Information",
+      "question": "Where is Clover headquartered?",
+      "answer": "Clover’s head office is located in Johannesburg, South Africa.",
+      "keywords": [ "headquarters", "address", "location", "Johannesburg" ],
+      "tags": [ "company_info", "location" ],
+      "variations": [
+        "Where is Clover's head office?",
+        "Where is Clover based?",
+        "What is Clover's headquarters address?"
+      ]
+    },
+    {
+      "id": "faq_003",
+      "category": "Company Information",
+      "question": "How long has Clover been in business?",
+      "answer": "Clover was founded in 1898 and has over a century of experience in dairy and consumer goods manufacturing.",
+      "keywords": [ "history", "founded", "established", "1898" ],
+      "tags": [ "company_info", "history" ],
+      "variations": [
+        "When was Clover founded?",
+        "How old is Clover?",
+        "How long has Clover existed?"
+      ]
+    },
+    {
+      "id": "faq_004",
+      "category": "Company Information",
+      "question": "What is Clover’s mission?",
+      "answer": "Clover strives to provide high-quality, nutritious, and trusted food and beverage products to consumers while maintaining responsible and sustainable production.",
+      "keywords": [ "mission", "vision", "values", "purpose" ],
+      "tags": [ "company_info", "mission" ],
+      "variations": [
+        "What is Clover's mission and vision?",
+        "What does Clover stand for?",
+        "What are Clover's goals?"
+      ]
+    },
+    {
+      "id": "faq_005",
+      "category": "Product Information",
+      "question": "What products does Clover make?",
+      "answer": "Clover produces milk, cream, yogurt, cheese, maas, butter, juices, flavoured milk, dairy snacks, desserts, pet food, and water.",
+      "keywords": [ "products", "milk", "yogurt", "cheese", "butter", "juices" ],
+      "tags": [ "products", "catalog" ],
+      "variations": [
+        "What products does Clover sell?",
+        "What does Clover produce?",
+        "Which products are in Clover's range?"
+      ]
+    },
+    {
+      "id": "faq_006",
+      "category": "Product Information",
+      "question": "Is Clover milk pasteurised?",
+      "answer": "Yes. All Clover fresh milk is pasteurised and undergoes strict quality testing.",
+      "keywords": [ "pasteurised", "milk safety", "milk processing" ],
+      "tags": [ "product_info", "safety" ],
+      "variations": [
+        "Is Clover milk pasteurized?",
+        "Does Clover pasteurize their milk?",
+        "Is Clover fresh milk safe?"
+      ]
+    },
+    {
+      "id": "faq_007",
+      "category": "Product Information",
+      "question": "Is Clover dairy Halaal?",
+      "answer": "Yes, most Clover products are Halaal-certified. Labels and packaging indicate the certification.",
+      "keywords": [ "Halaal", "halal", "certified", "religious" ],
+      "tags": [ "product_info", "certification", "dietary" ],
+      "variations": [
+        "Are Clover products halal?",
+        "Is Clover Halaal certified?",
+        "Does Clover have halal certification?"
+      ]
+    },
+    {
+      "id": "faq_008",
+      "category": "Product Information",
+      "question": "How long does Clover milk last once opened?",
+      "answer": "Once opened, Clover fresh milk should be consumed within 3–5 days if continuously refrigerated.",
+      "keywords": [ "shelf life", "opened", "milk storage", "refrigerate" ],
+      "tags": [ "product_info", "storage" ],
+      "variations": [
+        "How long after opening does Clover milk last?",
+        "Opened milk how many days is it good for?",
+        "How long can I keep Clover milk once opened?"
+      ]
+    },
+    {
+      "id": "faq_009",
+      "category": "Product Information",
+      "question": "Are Clover products gluten-free?",
+      "answer": "Many products are naturally gluten-free. Always check product labels for specific allergen information.",
+      "keywords": [ "gluten", "allergens", "gluten-free", "labels" ],
+      "tags": [ "product_info", "allergens" ],
+      "variations": [
+        "Do Clover products contain gluten?",
+        "Are Clover items gluten free?",
+        "Which Clover products are gluten-free?"
+      ]
+    },
+    {
+      "id": "faq_010",
+      "category": "Product Information",
+      "question": "Why is Clover fresh milk sometimes out of stock?",
+      "answer": "This can be due to high demand, supply chain delays, or transportation issues.",
+      "keywords": [ "out of stock", "availability", "supply", "stock" ],
+      "tags": [ "product_info", "supply_chain" ],
+      "variations": [
+        "Why can't I find Clover milk in stores?",
+        "Why is Clover milk unavailable?",
+        "Why is Clover out of stock?"
+      ]
+    },
+    {
+      "id": "faq_011",
+      "category": "Product Information",
+      "question": "Can I freeze Clover cheese?",
+      "answer": "Yes. Hard cheeses freeze well; soft cheeses may change texture.",
+      "keywords": [ "freeze", "cheese", "storage", "texture" ],
+      "tags": [ "product_info", "storage" ],
+      "variations": [
+        "Can I freeze Clover's cheese?",
+        "Is it ok to freeze cheese from Clover?",
+        "How to freeze Clover cheese?"
+      ]
+    },
+    {
+      "id": "faq_012",
+      "category": "Orders, Deliveries & Distribution",
+      "question": "Does Clover deliver directly to homes?",
+      "answer": "Clover does not typically deliver directly to individual households. Products are delivered to retailers and distributors.",
+      "keywords": [ "delivery", "home delivery", "retail", "distribution" ],
+      "tags": [ "orders", "distribution" ],
+      "variations": [
+        "Does Clover do home delivery?",
+        "Can I order directly from Clover to my house?",
+        "Does Clover deliver to consumers?"
+      ]
+    },
+    {
+      "id": "faq_013",
+      "category": "Orders, Deliveries & Distribution",
+      "question": "I am a retailer; how do I place a bulk order?",
+      "answer": "Retailers can register as partners by contacting Clover’s Customer Care or their regional sales representative.",
+      "keywords": [ "bulk order", "retailer", "wholesale", "trade" ],
+      "tags": [ "b2b", "orders" ],
+      "variations": [
+        "How do retailers order in bulk from Clover?",
+        "I want to place a bulk order as a store",
+        "How to become a Clover retailer and order stock?"
+      ]
+    },
+    {
+      "id": "faq_014",
+      "category": "Orders, Deliveries & Distribution",
+      "question": "How often does Clover deliver to retailers?",
+      "answer": "Delivery frequency depends on the retailer’s location and order cycle — usually daily or weekly.",
+      "keywords": [ "delivery frequency", "schedule", "retailer deliveries" ],
+      "tags": [ "orders", "logistics" ],
+      "variations": [
+        "How often does Clover deliver?",
+        "What's the delivery schedule for retailers?",
+        "How regular are Clover deliveries to shops?"
+      ]
+    },
+    {
+      "id": "faq_015",
+      "category": "Orders, Deliveries & Distribution",
+      "question": "How do I track my order as a business customer?",
+      "answer": "Contact the Clover logistics team or your assigned Key Account Manager.",
+      "keywords": [ "track order", "order status", "KAM", "logistics" ],
+      "tags": [ "orders", "tracking" ],
+      "variations": [
+        "How can I check my order status?",
+        "Where is my retailer order?",
+        "How to track a Clover delivery?"
+      ]
+    },
+    {
+      "id": "faq_016",
+      "category": "Orders, Deliveries & Distribution",
+      "question": "What should I do if my delivery is late?",
+      "answer": "Report delays to Clover Customer Care or your KAM so they can check transporter schedules.",
+      "keywords": [ "late delivery", "delay", "complaint", "transporter" ],
+      "tags": [ "orders", "complaint" ],
+      "variations": [
+        "My delivery is late — what now?",
+        "Who do I contact about late deliveries?",
+        "Delivery delayed — how to report?"
+      ]
+    },
+    {
+      "id": "faq_017",
+      "category": "Complaints & Quality Issues",
+      "question": "What should I do if I bought a Clover product that smells sour before the expiry date?",
+      "answer": "Take a photo of the product, keep the packaging, and report it to Customer Care. You may receive a replacement or refund.",
+      "keywords": [ "sour", "spoiled", "product complaint", "expiry" ],
+      "tags": [ "complaints", "quality" ],
+      "variations": [
+        "I bought milk that smells sour before expiry — what do I do?",
+        "Product spoiled before best before date",
+        "How to report spoiled Clover product?"
+      ]
+    },
+    {
+      "id": "faq_018",
+      "category": "Complaints & Quality Issues",
+      "question": "I found spoiled milk. How do I report it?",
+      "answer": "Contact Clover Customer Care with the batch number, store name, and date of purchase.",
+      "keywords": [ "spoiled milk", "report", "batch number", "quality" ],
+      "tags": [ "complaints", "quality_control" ],
+      "variations": [
+        "How do I report spoiled milk from Clover?",
+        "Where to complain about bad milk?",
+        "Reporting a quality issue with Clover milk"
+      ]
+    },
+    {
+      "id": "faq_019",
+      "category": "Complaints & Quality Issues",
+      "question": "The packaging was damaged. Whom do I contact?",
+      "answer": "Submit details and photos to Customer Care. Damaged packaging may occur due to handling at store level.",
+      "keywords": [ "damaged packaging", "packaging", "report damage" ],
+      "tags": [ "complaints", "returns" ],
+      "variations": [
+        "Who to contact about damaged packaging?",
+        "My Clover product packaging is damaged — what now?",
+        "How to report damaged goods?"
+      ]
+    },
+    {
+      "id": "faq_020",
+      "category": "Complaints & Quality Issues",
+      "question": "Where can I lodge a complaint?",
+      "answer": "Complaints can be submitted through the Clover Customer Care line, email, or social media platforms.",
+      "keywords": [ "complaint", "customer service", "contact", "email" ],
+      "tags": [ "complaints", "customer_service" ],
+      "variations": [
+        "How do I lodge a complaint with Clover?",
+        "Where to complain about a Clover product?",
+        "How can I send feedback or complaints?"
+      ]
+    },
+    {
+      "id": "faq_021",
+      "category": "Nutrition & Health",
+      "question": "Are Clover products safe for people with lactose intolerance?",
+      "answer": "Some Clover products are low-lactose or lactose-free. Check labels for nutritional information.",
+      "keywords": [ "lactose", "intolerance", "lactose-free", "dietary" ],
+      "tags": [ "nutrition", "allergens" ],
+      "variations": [
+        "Are Clover products suitable for lactose intolerant people?",
+        "Do Clover have lactose-free options?",
+        "Which Clover items are low lactose?"
+      ]
+    },
+    {
+      "id": "faq_022",
+      "category": "Nutrition & Health",
+      "question": "What is the fat content of Clover fresh milk?",
+      "answer": "Full Cream: 3.3–3.6%, Low Fat: 1.5–1.8%, Fat Free: 0.5% or less.",
+      "keywords": [ "fat content", "milk fat", "full cream", "low fat" ],
+      "tags": [ "nutrition", "product_info" ],
+      "variations": [
+        "How much fat is in Clover milk?",
+        "What are the fat percentages for Clover milk?",
+        "Clover full cream vs low fat fat content"
+      ]
+    },
+    {
+      "id": "faq_023",
+      "category": "Nutrition & Health",
+      "question": "Are Clover dairy products healthy for children?",
+      "answer": "Clover dairy is an excellent source of calcium, protein, and essential vitamins, making it suitable for children.",
+      "keywords": [ "children", "nutrition", "calcium", "protein" ],
+      "tags": [ "nutrition", "health" ],
+      "variations": [
+        "Is Clover milk good for children?",
+        "Are Clover products suitable for kids?",
+        "Is it healthy to give Clover dairy to children?"
+      ]
+    },
+    {
+      "id": "faq_024",
+      "category": "Promotions, Competitions & Rewards",
+      "question": "How do I enter Clover competitions?",
+      "answer": "Instructions are printed on promotional packaging or posted on Clover’s website and social media.",
+      "keywords": [ "competitions", "promotions", "enter", "prize" ],
+      "tags": [ "promotions", "marketing" ],
+      "variations": [
+        "How to enter Clover promotions?",
+        "Where do I find competition rules?",
+        "How do I take part in a Clover competition?"
+      ]
+    },
+    {
+      "id": "faq_025",
+      "category": "Promotions, Competitions & Rewards",
+      "question": "How long do Clover promotions run?",
+      "answer": "Each promotion has start and end dates, listed on the packaging or Clover’s campaign page.",
+      "keywords": [ "promotion length", "campaign dates", "duration" ],
+      "tags": [ "promotions", "campaigns" ],
+      "variations": [
+        "How long is a Clover promotion active?",
+        "When does the Clover promotion end?",
+        "What are the dates for current Clover promotions?"
+      ]
+    },
+    {
+      "id": "faq_026",
+      "category": "Promotions, Competitions & Rewards",
+      "question": "I won a prize. How do I claim it?",
+      "answer": "Follow the claiming instructions sent to you via email/SMS from the Clover promotions team.",
+      "keywords": [ "claim prize", "winner", "prize", "promotions" ],
+      "tags": [ "promotions", "support" ],
+      "variations": [
+        "How do I claim my Clover prize?",
+        "I won — how do I get my prize?",
+        "Prize claiming instructions for Clover winners"
+      ]
+    },
+    {
+      "id": "faq_027",
+      "category": "Careers & Employment",
+      "question": "How can I apply for a job at Clover?",
+      "answer": "Visit Clover’s official careers portal or check vacancies on LinkedIn or the Clover website.",
+      "keywords": [ "jobs", "careers", "apply", "vacancies", "LinkedIn" ],
+      "tags": [ "careers", "hr" ],
+      "variations": [
+        "How do I apply for a job at Clover?",
+        "Where to find Clover job vacancies?",
+        "How to submit my CV to Clover?"
+      ]
+    },
+    {
+      "id": "faq_028",
+      "category": "Careers & Employment",
+      "question": "Does Clover offer internships?",
+      "answer": "Yes. Clover offers graduate programs and internships in departments like supply chain, IT, finance, engineering, and marketing.",
+      "keywords": [ "internship", "graduate program", "training", "student" ],
+      "tags": [ "careers", "internships" ],
+      "variations": [
+        "Does Clover have internships?",
+        "Are there graduate programs at Clover?",
+        "Can I do work experience at Clover?"
+      ]
+    },
+    {
+      "id": "faq_029",
+      "category": "Careers & Employment",
+      "question": "How do I check my application status?",
+      "answer": "Log in to the Clover careers portal or contact HR through the website.",
+      "keywords": [ "application status", "job status", "HR", "careers portal" ],
+      "tags": [ "careers", "hr_support" ],
+      "variations": [
+        "How can I check my job application status?",
+        "Where to see my Clover application status?",
+        "I applied for a job — how do I know the status?"
+      ]
+    },
+    {
+      "id": "faq_030",
+      "category": "Business & Supplier Partnerships",
+      "question": "How do I become a Clover supplier?",
+      "answer": "Submit your company details and documentation to Clover’s procurement department.",
+      "keywords": [ "supplier", "procurement", "supply", "partnership" ],
+      "tags": [ "b2b", "procurement" ],
+      "variations": [
+        "How to become a supplier to Clover?",
+        "Who do I contact to supply Clover?",
+        "What is the process to be a Clover supplier?"
+      ]
+    },
+    {
+      "id": "faq_031",
+      "category": "Business & Supplier Partnerships",
+      "question": "Does Clover work with small businesses?",
+      "answer": "Yes, Clover partners with a range of SMEs, distributors, and independent retailers depending on capacity and compliance.",
+      "keywords": [ "SME", "small business", "partnerships", "suppliers" ],
+      "tags": [ "b2b", "partnerships" ],
+      "variations": [
+        "Does Clover support small businesses?",
+        "Can small companies supply to Clover?",
+        "Does Clover partner with local SMEs?"
+      ]
+    },
+    {
+      "id": "faq_032",
+      "category": "Business & Supplier Partnerships",
+      "question": "Can I tour or visit a Clover factory?",
+      "answer": "Some facilities offer educational visits, subject to approval and safety policies.",
+      "keywords": [ "factory tour", "visit", "plant", "tour" ],
+      "tags": [ "b2b", "visits" ],
+      "variations": [
+        "Can I visit a Clover factory?",
+        "Do Clover offer factory tours?",
+        "How to arrange a visit to Clover plant?"
+      ]
+    },
+    {
+      "id": "faq_033",
+      "category": "Customer Service",
+      "question": "What are Clover’s customer care contact details?",
+      "answer": "Customers can reach Clover via phone, email, or the website contact form.",
+      "keywords": [ "contact", "customer care", "phone", "email" ],
+      "tags": [ "customer_service", "contact" ],
+      "variations": [
+        "How do I contact Clover customer service?",
+        "What is Clover's customer care number?",
+        "How to get in touch with Clover?"
+      ]
+    },
+    {
+      "id": "faq_034",
+      "category": "Customer Service",
+      "question": "What are the Customer Care operating hours?",
+      "answer": "Typically weekdays during business hours (e.g., 08:00–17:00).",
+      "keywords": [ "hours", "operating hours", "customer care times", "support hours" ],
+      "tags": [ "customer_service", "hours" ],
+      "variations": [
+        "When is Clover customer care open?",
+        "What are Clover support hours?",
+        "Customer care operating times?"
+      ]
+    },
+    {
+      "id": "faq_035",
+      "category": "Customer Service",
+      "question": "Does Clover respond to social media messages?",
+      "answer": "Yes, queries made on Facebook, Instagram, and Twitter are generally responded to within a few hours.",
+      "keywords": [ "social media", "Facebook", "Instagram", "Twitter", "response time" ],
+      "tags": [ "customer_service", "social" ],
+      "variations": [
+        "Does Clover reply on social media?",
+        "Can I message Clover on Facebook or Instagram?",
+        "How fast does Clover respond on Twitter?"
+      ]
+    },
+    {
+      "id": "faq_036",
+      "category": "Product Information",
+      "question": "Does Clover produce plant-based alternatives?",
+      "answer": "Yes, Clover has introduced plant-based beverages such as oat and soy milk to cater to vegan and lactose-intolerant consumers.",
+      "keywords": [ "plant-based", "vegan", "oat milk", "soy milk" ],
+      "tags": [ "product_info", "dietary" ],
+      "variations": [ "Does Clover make vegan products?", "Are there plant-based options at Clover?", "Does Clover sell soy or oat milk?" ]
+    },
+    {
+      "id": "faq_037",
+      "category": "Company Information",
+      "question": "Is Clover involved in sustainability initiatives?",
+      "answer": "Clover invests in eco-friendly packaging, energy-efficient production, and community recycling programs.",
+      "keywords": [ "sustainability", "eco-friendly", "recycling", "environment" ],
+      "tags": [ "company_info", "sustainability" ],
+      "variations": [ "What are Clover’s sustainability efforts?", "Is Clover environmentally friendly?", "Does Clover recycle packaging?" ]
+    },
+    {
+      "id": "faq_038",
+      "category": "Company Information",
+      "question": "Does Clover export products internationally?",
+      "answer": "Yes, Clover exports selected dairy and beverage products to markets across Africa and beyond.",
+      "keywords": [ "export", "international", "global", "trade" ],
+      "tags": [ "company_info", "distribution" ],
+      "variations": [ "Does Clover sell products outside South Africa?", "Where does Clover export to?", "Is Clover international?" ]
+    },
+    {
+      "id": "faq_039",
+      "category": "Product Information",
+      "question": "Are Clover juices 100% fruit juice?",
+      "answer": "Many Clover juices are 100% fruit juice, while some are blends. Labels specify the juice content.",
+      "keywords": [ "juice", "fruit", "100%", "blends" ],
+      "tags": [ "product_info", "nutrition" ],
+      "variations": [ "Is Clover juice pure fruit?", "Are Clover juices blends?", "How much fruit is in Clover juice?" ]
+    },
+    {
+      "id": "faq_040",
+      "category": "Product Information",
+      "question": "Does Clover offer lactose-free cheese?",
+      "answer": "Yes, Clover has lactose-free cheese options available in selected ranges.",
+      "keywords": [ "lactose-free", "cheese", "dietary", "intolerance" ],
+      "tags": [ "nutrition", "allergens" ],
+      "variations": [ "Is Clover cheese lactose-free?", "Can lactose-intolerant people eat Clover cheese?", "Does Clover make lactose-free dairy?" ]
+    },
+    {
+      "id": "faq_041",
+      "category": "Product Information",
+      "question": "Can Clover butter be used for baking?",
+      "answer": "Yes, Clover butter is suitable for baking, cooking, and spreading.",
+      "keywords": [ "butter", "baking", "cooking", "spread" ],
+      "tags": [ "product_info", "usage" ],
+      "variations": [ "Is Clover butter good for baking?", "Can I cook with Clover butter?", "Is Clover butter multipurpose?" ]
+    },
+    {
+      "id": "faq_042",
+      "category": "Company Information",
+      "question": "Does Clover support local farmers?",
+      "answer": "Clover sources milk from South African farmers, supporting local agriculture and communities.",
+      "keywords": [ "farmers", "local", "agriculture", "sourcing" ],
+      "tags": [ "company_info", "partnerships" ],
+      "variations": [ "Does Clover buy from local farmers?", "How does Clover support agriculture?", "Is Clover milk locally sourced?" ]
+    },
+    {
+      "id": "faq_043",
+      "category": "Nutrition & Health",
+      "question": "Are Clover products suitable for vegetarians?",
+      "answer": "Yes, most Clover dairy and beverage products are vegetarian-friendly.",
+      "keywords": [ "vegetarian", "diet", "dairy", "suitable" ],
+      "tags": [ "nutrition", "dietary" ],
+      "variations": [ "Is Clover vegetarian?", "Can vegetarians consume Clover products?", "Are Clover dairy items vegetarian-friendly?" ]
+    },
+    {
+      "id": "faq_044",
+      "category": "Nutrition & Health",
+      "question": "Does Clover offer sugar-free products?",
+      "answer": "Yes, Clover has sugar-free and reduced-sugar options in beverages and dairy snacks.",
+      "keywords": [ "sugar-free", "reduced sugar", "beverages", "snacks" ],
+      "tags": [ "nutrition", "product_info" ],
+      "variations": [ "Are Clover products sugar-free?", "Does Clover make low-sugar drinks?", "Which Clover items are sugar-free?" ]
+    },
+    {
+      "id": "faq_045",
+      "category": "Product Information",
+      "question": "Can Clover yogurt be used in smoothies?",
+      "answer": "Yes, Clover yogurt is ideal for smoothies, desserts, and cooking.",
+      "keywords": [ "yogurt", "smoothies", "cooking", "desserts" ],
+      "tags": [ "product_info", "usage" ],
+      "variations": [ "Can I use Clover yogurt in smoothies?", "Is Clover yogurt good for cooking?", "How can I use Clover yogurt?" ]
+    },
+    {
+      "id": "faq_046",
+      "category": "Nutrition & Health",
+      "question": "Does Clover offer fortified products?",
+      "answer": "Yes, some Clover products are fortified with vitamins and minerals like Vitamin D and calcium.",
+      "keywords": [ "fortified", "vitamins", "minerals", "nutrition" ],
+      "tags": [ "nutrition", "health" ],
+      "variations": [ "Are Clover products fortified?", "Does Clover add vitamins to milk?", "Which Clover items have added nutrients?" ]
+    },
+    {
+      "id": "faq_047",
+      "category": "Product Information",
+      "question": "Are Clover products suitable for pets?",
+      "answer": "Clover produces a dedicated pet food range, separate from human dairy and beverages.",
+      "keywords": [ "pet food", "animals", "dogs", "cats" ],
+      "tags": [ "product_info", "pets" ],
+      "variations": [ "Does Clover make pet food?", "Are Clover products safe for pets?", "What pet food does Clover sell?" ]
+    },
+    {
+      "id": "faq_048",
+      "category": "Orders, Deliveries & Distribution",
+      "question": "Does Clover offer online ordering for businesses?",
+      "answer": "Yes, business customers can place bulk orders via Clover’s online portal or through sales representatives.",
+      "keywords": [ "online ordering", "bulk", "business", "portal" ],
+      "tags": [ "orders", "b2b" ],
+      "variations": [ "Can businesses order Clover online?", "How do I order Clover stock online?", "Is there a Clover business portal?" ]
+    },
+    {
+      "id": "faq_049",
+      "category": "Product Information",
+      "question": "Does Clover have seasonal products?",
+      "answer": "Yes, Clover occasionally launches limited-edition seasonal flavors and promotions.",
+      "keywords": [ "seasonal", "limited edition", "flavors", "promotions" ],
+      "tags": [ "product_info", "promotions" ],
+      "variations": [ "Does Clover make seasonal products?", "Are there limited-edition Clover items?", "What seasonal flavors does Clover offer?" ]
+    },
+    {
+      "id": "faq_050",
+      "category": "Company Information",
+      "question": "Does Clover sponsor community events?",
+      "answer": "Yes, Clover supports local sports, schools, and community initiatives through sponsorships.",
+      "keywords": [ "sponsorship", "community", "events", "schools" ],
+      "tags": [ "company_info", "community" ],
+      "variations": [ "Does Clover sponsor events?", "How does Clover support communities?", "Does Clover help schools and sports?" ]
+    },
+    {
+      "id": "faq_051",
+      "category": "Promotions, Competitions & Rewards",
+      "question": "Does Clover have a loyalty program?",
+      "answer": "Clover occasionally runs rewards programs linked to promotions and competitions.",
+      "keywords": [ "loyalty", "rewards", "promotions", "competitions" ],
+      "tags": [ "promotions", "rewards" ],
+      "variations": [ "Does Clover have rewards?", "Is there a Clover loyalty program?", "How do I earn points with Clover?" ]
+    },
+    {
+      "id": "faq_052",
+      "category": "Orders, Deliveries & Distribution",
+      "question": "Are Clover products available in convenience stores?",
+      "answer": "Yes, Clover products are widely distributed to supermarkets, convenience stores, and wholesalers.",
+      "keywords": [ "convenience stores", "supermarkets", "distribution" ],
+      "tags": [ "distribution", "retail" ],
+      "variations": [ "Can I buy Clover at convenience stores?", "Where can I find Clover products?", "Is Clover sold in supermarkets?" ]
+    },    
+        {
+          "id": "faq_053",
+          "category": "Product Information",
+          "question": "How should Clover long-life milk be stored?",
+          "answer": "Unopened long-life milk can be stored at room temperature. Once opened, it must be refrigerated and consumed within 3–5 days.",
+          "keywords": [ "long-life milk", "UHT", "storage", "refrigerate" ],
+          "tags": [ "product_info", "storage" ],
+          "variations": [
+            "How do I store Clover UHT milk?",
+            "Does long-life milk need refrigeration?",
+            "How long does Clover long-life milk last?"
+          ]
+        },
+        {
+          "id": "faq_054",
+          "category": "Product Information",
+          "question": "What does UHT mean?",
+          "answer": "UHT stands for Ultra-High Temperature, a process that heats milk at very high temperatures to extend shelf life without refrigeration until opened.",
+          "keywords": [ "UHT", "ultra high temperature", "milk processing" ],
+          "tags": [ "product_info", "education" ],
+          "variations": [
+            "What is UHT milk?",
+            "What does UHT stand for?",
+            "How is UHT milk processed?"
+          ]
+        },
+        {
+          "id": "faq_055",
+          "category": "Product Information",
+          "question": "Does Clover milk contain preservatives?",
+          "answer": "No, Clover fresh milk does not contain preservatives. It is preserved naturally through pasteurisation.",
+          "keywords": [ "preservatives", "milk ingredients", "pasteurised" ],
+          "tags": [ "product_info", "ingredients" ],
+          "variations": [
+            "Are there preservatives in Clover milk?",
+            "Is Clover milk natural?",
+            "Does Clover add chemicals to milk?"
+          ]
+        },
+        {
+          "id": "faq_056",
+          "category": "Nutrition & Health",
+          "question": "Is Clover milk a good source of protein?",
+          "answer": "Yes, Clover milk is rich in high-quality protein that supports muscle growth and overall health.",
+          "keywords": [ "protein", "nutrition", "health benefits" ],
+          "tags": [ "nutrition", "health" ],
+          "variations": [
+            "How much protein is in Clover milk?",
+            "Is Clover milk high in protein?",
+            "Does Clover milk help with muscle growth?"
+          ]
+        },
+        {
+          "id": "faq_057",
+          "category": "Product Information",
+          "question": "Why does milk sometimes separate?",
+          "answer": "Milk separation can occur naturally due to fat content. Shaking the container will restore consistency.",
+          "keywords": [ "separation", "milk fat", "texture" ],
+          "tags": [ "product_info", "quality" ],
+          "variations": [
+            "Why is my milk separating?",
+            "Is separated milk spoiled?",
+            "Why does cream rise to the top?"
+          ]
+        },
+        {
+          "id": "faq_058",
+          "category": "Product Information",
+          "question": "Can I boil Clover fresh milk?",
+          "answer": "Yes, Clover fresh milk can be boiled for cooking or beverage preparation.",
+          "keywords": [ "boil milk", "cooking", "preparation" ],
+          "tags": [ "product_info", "usage" ],
+          "variations": [
+            "Can I heat Clover milk?",
+            "Is Clover milk safe to boil?",
+            "Can I cook with Clover fresh milk?"
+          ]
+        },
+        {
+          "id": "faq_059",
+          "category": "Product Information",
+          "question": "Are Clover products GMO-free?",
+          "answer": "Clover adheres to South African food safety regulations and sources ingredients responsibly.",
+          "keywords": [ "GMO", "ingredients", "food safety" ],
+          "tags": [ "product_info", "compliance" ],
+          "variations": [
+            "Does Clover use GMOs?",
+            "Are Clover products genetically modified?",
+            "Is Clover milk GMO-free?"
+          ]
+        },
+        {
+          "id": "faq_060",
+          "category": "Orders, Deliveries & Distribution",
+          "question": "Can restaurants order directly from Clover?",
+          "answer": "Yes, restaurants and food service businesses can arrange bulk supply through Clover’s sales team.",
+          "keywords": [ "restaurants", "bulk supply", "food service" ],
+          "tags": [ "b2b", "orders" ],
+          "variations": [
+            "Can restaurants buy directly from Clover?",
+            "Does Clover supply restaurants?",
+            "How can food service businesses order?"
+          ]
+        },
+        {
+          "id": "faq_061",
+          "category": "Business & Supplier Partnerships",
+          "question": "What documents are required to register as a supplier?",
+          "answer": "Suppliers typically need company registration documents, tax clearance certificates, and compliance documentation.",
+          "keywords": [ "supplier documents", "registration", "compliance" ],
+          "tags": [ "b2b", "procurement" ],
+          "variations": [
+            "What paperwork is needed to supply Clover?",
+            "How do I register as a supplier?",
+            "Supplier registration requirements?"
+          ]
+        },
+        {
+          "id": "faq_062",
+          "category": "Customer Service",
+          "question": "How long does Clover take to respond to complaints?",
+          "answer": "Customer Care typically responds within 24–48 business hours.",
+          "keywords": [ "response time", "complaints", "customer care" ],
+          "tags": [ "customer_service", "support" ],
+          "variations": [
+            "How fast does Clover respond?",
+            "When will I get feedback on my complaint?",
+            "Complaint response time?"
+          ]
+        },
+        {
+          "id": "faq_063",
+          "category": "Promotions, Competitions & Rewards",
+          "question": "Where are Clover competition winners announced?",
+          "answer": "Winners are usually announced on Clover’s website or official social media pages.",
+          "keywords": [ "winners", "competition results", "announcement" ],
+          "tags": [ "promotions", "marketing" ],
+          "variations": [
+            "Where can I see competition winners?",
+            "How do I know if I won?",
+            "Are winners published online?"
+          ]
+        },
+        {
+          "id": "faq_064",
+          "category": "Product Information",
+          "question": "Does Clover milk contain added sugar?",
+          "answer": "Plain milk does not contain added sugar; flavored milk varieties may contain added sugars.",
+          "keywords": [ "added sugar", "flavored milk", "nutrition" ],
+          "tags": [ "nutrition", "product_info" ],
+          "variations": [
+            "Is there sugar in Clover milk?",
+            "Does Clover add sugar to milk?",
+            "Which Clover milk has sugar?"
+          ]
+        },
+        {
+          "id": "faq_065",
+          "category": "Nutrition & Health",
+          "question": "Is Clover yogurt probiotic?",
+          "answer": "Some Clover yogurt products contain live probiotic cultures. Check the packaging for details.",
+          "keywords": [ "probiotic", "yogurt cultures", "digestive health" ],
+          "tags": [ "nutrition", "health" ],
+          "variations": [
+            "Does Clover yogurt have probiotics?",
+            "Is Clover yogurt good for digestion?",
+            "What cultures are in Clover yogurt?"
+          ]
+        },
+        {
+          "id": "faq_066",
+          "category": "Product Information",
+          "question": "Can I recycle Clover packaging?",
+          "answer": "Many Clover packaging materials are recyclable. Check recycling symbols on the packaging.",
+          "keywords": [ "recycle", "packaging", "environment" ],
+          "tags": [ "sustainability", "product_info" ],
+          "variations": [
+            "Is Clover packaging recyclable?",
+            "Can I recycle milk cartons?",
+            "Does Clover support recycling?"
+          ]
+        },
+        {
+          "id": "faq_067",
+          "category": "Company Information",
+          "question": "Does Clover publish annual reports?",
+          "answer": "Yes, Clover publishes annual financial and sustainability reports for stakeholders.",
+          "keywords": [ "annual report", "financial report", "investors" ],
+          "tags": [ "company_info", "investor_relations" ],
+          "variations": [
+            "Where can I find Clover annual reports?",
+            "Does Clover release financial statements?",
+            "Is Clover publicly transparent?"
+          ]
+        },
+        {
+          "id": "faq_068",
+          "category": "Customer Service",
+          "question": "Can I provide product suggestions to Clover?",
+          "answer": "Yes, customers are welcome to submit product suggestions via Customer Care channels.",
+          "keywords": [ "suggestions", "feedback", "ideas" ],
+          "tags": [ "customer_service", "feedback" ],
+          "variations": [
+            "Can I suggest a new product?",
+            "How do I send ideas to Clover?",
+            "Does Clover accept product suggestions?"
+          ]
+        },
+        {
+          "id": "faq_069",
+          "category": "Product Information",
+          "question": "Does Clover produce flavored milk?",
+          "answer": "Yes, Clover offers a variety of flavored milk options such as chocolate, strawberry, and vanilla.",
+          "keywords": [ "flavored milk", "chocolate milk", "strawberry" ],
+          "tags": [ "product_info", "beverages" ],
+          "variations": [
+            "Does Clover sell chocolate milk?",
+            "What flavored milk does Clover have?",
+            "Are there strawberry milk options?"
+          ]
+        },
+        {
+          "id": "faq_070",
+          "category": "Product Information",
+          "question": "Is Clover water purified?",
+          "answer": "Yes, Clover bottled water undergoes purification and quality testing processes.",
+          "keywords": [ "water", "purified", "bottled water" ],
+          "tags": [ "product_info", "quality" ],
+          "variations": [
+            "Is Clover bottled water purified?",
+            "How is Clover water processed?",
+            "Is Clover water safe to drink?"
+          ]
+        },
+        {
+          "id": "faq_071",
+          "category": "Orders, Deliveries & Distribution",
+          "question": "Can I change my bulk order after placing it?",
+          "answer": "Order changes may be possible before dispatch. Contact your sales representative immediately.",
+          "keywords": [ "change order", "bulk order", "edit order" ],
+          "tags": [ "orders", "b2b" ],
+          "variations": [
+            "Can I modify my order?",
+            "How do I edit a bulk order?",
+            "Is it possible to cancel an order?"
+          ]
+        },
+        {
+          "id": "faq_072",
+          "category": "Complaints & Quality Issues",
+          "question": "Will I receive compensation for faulty products?",
+          "answer": "Verified quality issues may qualify for a replacement or refund, subject to review.",
+          "keywords": [ "refund", "replacement", "compensation" ],
+          "tags": [ "complaints", "returns" ],
+          "variations": [
+            "Do I get a refund for spoiled milk?",
+            "Will Clover replace faulty products?",
+            "What happens after I complain?"
+          ]
+        },
+        {
+          "id": "faq_073",
+          "category": "Careers & Employment",
+          "question": "Does Clover offer learnerships?",
+          "answer": "Yes, Clover periodically offers learnerships in technical and business disciplines.",
+          "keywords": [ "learnership", "training", "career development" ],
+          "tags": [ "careers", "training" ],
+          "variations": [
+            "Are there learnerships at Clover?",
+            "Does Clover provide training programs?",
+            "How to apply for a learnership?"
+          ]
+        },
+        {
+          "id": "faq_074",
+          "category": "Careers & Employment",
+          "question": "Does Clover hire graduates with no experience?",
+          "answer": "Yes, graduate programs are designed for entry-level candidates with limited experience.",
+          "keywords": [ "graduates", "entry level", "experience" ],
+          "tags": [ "careers", "graduates" ],
+          "variations": [
+            "Can I apply with no experience?",
+            "Are there entry-level jobs at Clover?",
+            "Graduate opportunities at Clover?"
+          ]
+        },
+        {
+          "id": "faq_075",
+          "category": "Company Information",
+          "question": "Is Clover a South African company?",
+          "answer": "Yes, Clover originated in South Africa and operates primarily within the country.",
+          "keywords": [ "South Africa", "local company", "origin" ],
+          "tags": [ "company_info", "about" ],
+          "variations": [
+            "Is Clover locally owned?",
+            "Where did Clover start?",
+            "Is Clover South African?"
+          ]
+        },
+        {
+          "id": "faq_076",
+          "category": "Product Information",
+          "question": "Are Clover desserts suitable for freezing?",
+          "answer": "Some desserts can be frozen, but texture may change. Check packaging instructions.",
+          "keywords": [ "desserts", "freeze", "storage" ],
+          "tags": [ "product_info", "storage" ],
+          "variations": [
+            "Can I freeze Clover desserts?",
+            "Is it safe to freeze dairy desserts?",
+            "How to store Clover desserts?"
+          ]
+        },
+        {
+          "id": "faq_077",
+          "category": "Nutrition & Health",
+          "question": "Is Clover milk suitable for pregnant women?",
+          "answer": "Pasteurised milk is generally safe during pregnancy. Consult a healthcare professional for personal advice.",
+          "keywords": [ "pregnancy", "pasteurised", "health" ],
+          "tags": [ "nutrition", "health" ],
+          "variations": [
+            "Can pregnant women drink Clover milk?",
+            "Is Clover milk safe during pregnancy?",
+            "Milk safety for pregnancy?"
+          ]
+        },
+        {
+          "id": "faq_078",
+          "category": "Nutrition & Health",
+          "question": "Does Clover offer high-protein dairy options?",
+          "answer": "Yes, certain yogurts and milk variants provide higher protein content.",
+          "keywords": [ "high protein", "yogurt", "milk" ],
+          "tags": [ "nutrition", "product_info" ],
+          "variations": [
+            "Which Clover products are high in protein?",
+            "Does Clover have protein-rich options?",
+            "High protein yogurt from Clover?"
+          ]
+        },
+        {
+          "id": "faq_079",
+          "category": "Promotions, Competitions & Rewards",
+          "question": "Can employees enter Clover competitions?",
+          "answer": "Eligibility rules are outlined in each competition’s terms and conditions.",
+          "keywords": [ "employees", "competition rules", "eligibility" ],
+          "tags": [ "promotions", "rules" ],
+          "variations": [
+            "Are employees allowed to enter competitions?",
+            "Who is eligible for Clover competitions?",
+            "Competition rules for staff?"
+          ]
+        },
+        {
+          "id": "faq_080",
+          "category": "Business & Supplier Partnerships",
+          "question": "Does Clover require compliance audits from suppliers?",
+          "answer": "Yes, suppliers may undergo quality and compliance audits as part of procurement processes.",
+          "keywords": [ "audit", "compliance", "supplier standards" ],
+          "tags": [ "b2b", "compliance" ],
+          "variations": [
+            "Are supplier audits required?",
+            "Does Clover audit suppliers?",
+            "Supplier compliance checks?"
+          ]
+        },
+        {
+          "id": "faq_081",
+          "category": "Customer Service",
+          "question": "Can I request bulk pricing information?",
+          "answer": "Yes, bulk pricing is available to approved retailers and distributors through sales representatives.",
+          "keywords": [ "bulk pricing", "wholesale", "retailers" ],
+          "tags": [ "b2b", "pricing" ],
+          "variations": [
+            "How do I get wholesale prices?",
+            "Does Clover offer bulk discounts?",
+            "Bulk price request process?"
+          ]
+        },
+    {
+      "id": "faq_082",
+      "category": "Company Information",
+      "question": "Does Clover have a code of ethics?",
+      "answer": "Yes, Clover operates under a corporate governance framework and code of ethics.",
+      "keywords": [ "ethics", "governance", "corporate policy" ],
+      "tags": [ "company_info", "governance" ],
+      "variations": [
+        "Does Clover have ethical policies?",
+        "What is Clover’s code of conduct?",
+        "Corporate governance at Clover?"
+      ]
+    },
+        {
+          "id": "faq_083",
+          "category": "Product Information",
+          "question": "Does Clover offer low-fat yogurt options?",
+          "answer": "Yes, Clover offers low-fat and fat-free yogurt options in selected flavors.",
+          "keywords": [ "low fat", "yogurt", "fat free", "diet" ],
+          "tags": [ "product_info", "nutrition" ],
+          "variations": [
+            "Does Clover have low-fat yogurt?",
+            "Are there fat-free yogurt options?",
+            "Which Clover yogurts are low fat?"
+          ]
+        },
+        {
+          "id": "faq_084",
+          "category": "Product Information",
+          "question": "How can I find the expiry date on Clover products?",
+          "answer": "The expiry or best-before date is printed on the packaging, usually near the top seal or base of the product.",
+          "keywords": [ "expiry date", "best before", "packaging" ],
+          "tags": [ "product_info", "quality" ],
+          "variations": [
+            "Where is the expiry date printed?",
+            "How do I check best-before date?",
+            "Where can I see the expiration date?"
+          ]
+        },
+        {
+          "id": "faq_085",
+          "category": "Complaints & Quality Issues",
+          "question": "What information should I provide when lodging a complaint?",
+          "answer": "Provide the product name, batch number, store purchased from, purchase date, and photos if possible.",
+          "keywords": [ "complaint details", "batch number", "quality issue" ],
+          "tags": [ "complaints", "customer_service" ],
+          "variations": [
+            "What details are needed for a complaint?",
+            "What must I include when reporting a product issue?",
+            "How do I properly lodge a complaint?"
+          ]
+        },
+        {
+          "id": "faq_086",
+          "category": "Orders, Deliveries & Distribution",
+          "question": "Does Clover supply rural areas?",
+          "answer": "Clover distributes widely across South Africa, including many rural and regional areas through retail partners.",
+          "keywords": [ "rural supply", "distribution", "regional areas" ],
+          "tags": [ "distribution", "retail" ],
+          "variations": [
+            "Is Clover available in rural areas?",
+            "Does Clover deliver outside cities?",
+            "Where does Clover distribute?"
+          ]
+        },
+        {
+          "id": "faq_087",
+          "category": "Product Information",
+          "question": "Are Clover creams suitable for whipping?",
+          "answer": "Yes, Clover whipping cream products are specifically designed for whipping and dessert preparation.",
+          "keywords": [ "whipping cream", "desserts", "cream" ],
+          "tags": [ "product_info", "usage" ],
+          "variations": [
+            "Can I whip Clover cream?",
+            "Is Clover cream good for desserts?",
+            "Which Clover cream can be whipped?"
+          ]
+        },
+        {
+          "id": "faq_088",
+          "category": "Nutrition & Health",
+          "question": "Does Clover milk contain calcium?",
+          "answer": "Yes, Clover milk is naturally rich in calcium which supports strong bones and teeth.",
+          "keywords": [ "calcium", "bones", "nutrition" ],
+          "tags": [ "nutrition", "health" ],
+          "variations": [
+            "Is Clover milk high in calcium?",
+            "Does Clover milk help bones?",
+            "How much calcium is in Clover milk?"
+          ]
+        },
+        {
+          "id": "faq_089",
+          "category": "Product Information",
+          "question": "Does Clover produce lactose-free milk?",
+          "answer": "Yes, Clover offers lactose-free milk options for consumers with lactose intolerance.",
+          "keywords": [ "lactose-free", "milk", "intolerance" ],
+          "tags": [ "product_info", "dietary" ],
+          "variations": [
+            "Is there lactose-free Clover milk?",
+            "Does Clover sell lactose-free options?",
+            "Milk for lactose intolerance?"
+          ]
+        },
+        {
+          "id": "faq_090",
+          "category": "Promotions, Competitions & Rewards",
+          "question": "Where can I find Clover promotion terms and conditions?",
+          "answer": "Promotion terms and conditions are available on Clover’s official website or printed on promotional materials.",
+          "keywords": [ "terms and conditions", "promotion rules", "competitions" ],
+          "tags": [ "promotions", "rules" ],
+          "variations": [
+            "Where are competition rules?",
+            "How do I see promotion T&Cs?",
+            "Clover competition terms?"
+          ]
+        },
+        {
+          "id": "faq_091",
+          "category": "Customer Service",
+          "question": "Can I update my contact details for promotions?",
+          "answer": "Yes, contact Customer Care to update your information for ongoing promotions or competitions.",
+          "keywords": [ "update details", "contact info", "promotions" ],
+          "tags": [ "customer_service", "support" ],
+          "variations": [
+            "How do I change my contact details?",
+            "Update phone number for competition?",
+            "Can I edit my promotion details?"
+          ]
+        },
+        {
+          "id": "faq_092",
+          "category": "Business & Supplier Partnerships",
+          "question": "Does Clover have supplier diversity programs?",
+          "answer": "Clover supports inclusive procurement practices and works with diverse suppliers where possible.",
+          "keywords": [ "supplier diversity", "inclusive procurement", "SME" ],
+          "tags": [ "b2b", "procurement" ],
+          "variations": [
+            "Does Clover support diverse suppliers?",
+            "Supplier diversity at Clover?",
+            "Inclusive procurement policies?"
+          ]
+        },
+        {
+          "id": "faq_093",
+          "category": "Careers & Employment",
+          "question": "Where are Clover job opportunities advertised?",
+          "answer": "Vacancies are posted on Clover’s official website and professional platforms like LinkedIn.",
+          "keywords": [ "vacancies", "jobs", "LinkedIn" ],
+          "tags": [ "careers", "recruitment" ],
+          "variations": [
+            "Where can I see Clover jobs?",
+            "Are jobs posted online?",
+            "How do I find Clover vacancies?"
+          ]
+        },
+        {
+          "id": "faq_094",
+          "category": "Company Information",
+          "question": "Does Clover conduct community outreach programs?",
+          "answer": "Yes, Clover participates in community upliftment and social responsibility initiatives.",
+          "keywords": [ "community outreach", "CSR", "social responsibility" ],
+          "tags": [ "company_info", "community" ],
+          "variations": [
+            "Does Clover give back to communities?",
+            "Community programs at Clover?",
+            "Clover social responsibility?"
+          ]
+        },
+        {
+          "id": "faq_095",
+          "category": "Product Information",
+          "question": "Are Clover cheeses suitable for melting?",
+          "answer": "Yes, many Clover cheese varieties melt well and are suitable for cooking and baking.",
+          "keywords": [ "cheese", "melting", "cooking" ],
+          "tags": [ "product_info", "usage" ],
+          "variations": [
+            "Does Clover cheese melt well?",
+            "Best Clover cheese for cooking?",
+            "Can I use Clover cheese on pizza?"
+          ]
+        },
+        {
+          "id": "faq_096",
+          "category": "Nutrition & Health",
+          "question": "Are Clover beverages suitable for diabetics?",
+          "answer": "Some Clover beverages are sugar-free or low-sugar. Consult nutritional labels and a healthcare provider.",
+          "keywords": [ "diabetic", "sugar-free", "low sugar" ],
+          "tags": [ "nutrition", "health" ],
+          "variations": [
+            "Are Clover drinks diabetic-friendly?",
+            "Low-sugar Clover beverages?",
+            "Can diabetics drink Clover juice?"
+          ]
+        },
+        {
+          "id": "faq_097",
+          "category": "Orders, Deliveries & Distribution",
+          "question": "What is the minimum order quantity for retailers?",
+          "answer": "Minimum order quantities vary by region and product category. Contact your sales representative for details.",
+          "keywords": [ "minimum order", "retailers", "bulk" ],
+          "tags": [ "orders", "b2b" ],
+          "variations": [
+            "What is the MOQ?",
+            "Minimum stock order?",
+            "How much must retailers order?"
+          ]
+        },
+        {
+          "id": "faq_098",
+          "category": "Customer Service",
+          "question": "Can I request product brochures or catalogs?",
+          "answer": "Yes, brochures and product information can be requested through Customer Care or the sales team.",
+          "keywords": [ "brochure", "catalog", "product info" ],
+          "tags": [ "customer_service", "information" ],
+          "variations": [
+            "How do I get a product catalog?",
+            "Can I receive brochures?",
+            "Request product information?"
+          ]
+        },
+        {
+          "id": "faq_099",
+          "category": "Product Information",
+          "question": "Does Clover produce dairy-free cream alternatives?",
+          "answer": "Clover offers selected plant-based alternatives in certain product ranges.",
+          "keywords": [ "dairy-free", "plant-based", "cream alternative" ],
+          "tags": [ "product_info", "dietary" ],
+          "variations": [
+            "Does Clover have dairy-free cream?",
+            "Plant-based cream options?",
+            "Non-dairy alternatives?"
+          ]
+        },
+        {
+          "id": "faq_100",
+          "category": "Promotions, Competitions & Rewards",
+          "question": "Can I enter multiple times in a Clover competition?",
+          "answer": "Entry limits depend on the specific competition rules and terms.",
+          "keywords": [ "multiple entries", "competition rules", "entries" ],
+          "tags": [ "promotions", "rules" ],
+          "variations": [
+            "Can I enter more than once?",
+            "Multiple entries allowed?",
+            "How many times can I enter?"
+          ]
+        },
+        {
+          "id": "faq_101",
+          "category": "Company Information",
+          "question": "Does Clover have regional offices?",
+          "answer": "Yes, Clover operates regional offices and distribution centers across South Africa.",
+          "keywords": [ "regional offices", "distribution centers", "locations" ],
+          "tags": [ "company_info", "locations" ],
+          "variations": [
+            "Where are Clover offices located?",
+            "Does Clover have branches?",
+            "Clover regional presence?"
+          ]
+        },
+        {
+          "id": "faq_102",
+          "category": "Business & Supplier Partnerships",
+          "question": "How long does supplier approval take?",
+          "answer": "Supplier approval timelines vary depending on compliance checks and documentation review.",
+          "keywords": [ "supplier approval", "timeline", "procurement" ],
+          "tags": [ "b2b", "procurement" ],
+          "variations": [
+            "How long does it take to become a supplier?",
+            "Supplier registration timeline?",
+            "When will supplier approval be confirmed?"
+          ]
+        }
+     ]
+}
+
